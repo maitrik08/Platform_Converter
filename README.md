@@ -15,4 +15,5 @@ Technology Stack
 This project is built using a combination of technologies, including:
 
 Framework: Flutter
+
 State Management: Provider
