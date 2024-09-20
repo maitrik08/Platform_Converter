@@ -14,5 +14,5 @@ Customizable Themes: Users can switch between light and dark modes, providing a 
 Technology Stack
 This project is built using a combination of technologies, including:
 
-[Framework]: Flutter
+Framework: Flutter
 State Management: Provider
